@@ -1,0 +1,9 @@
+{
+	"name": "tokyoolympicsadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "714893c6-bb4b-466e-a6e8-0039478a62df",
+		"tenantId": "f66f3f85-be73-41ae-8409-1eda96acc864"
+	}
+}
